@@ -22,8 +22,8 @@
 
 _**IP сервера**_&#x20;
 
-:desktop: ПК - `miko.monster:25565` \
-:mobile\_phone: Телефон - `miko.monster:19132`
+:desktop: ПК - `miko-hub.pp.ua:25565` \
+:mobile\_phone: Телефон - `miko-hub.pp.ua:19132`
 
 ## Как начать? :rocket:&#x20;
 
@@ -47,12 +47,12 @@ _**IP сервера**_&#x20;
 
 ## Карта сервера 🗺️
 
-{% embed url="https://map.miko.monster/" %}
+{% embed url="https://map-miko-monster.pp.ua/" %}
 
 ## Discord 🕹️
 
-{% embed url="https://discord.gg/Ms6aY7Wgye" %}
+{% embed url="https://discord.gg/bA729NstXD" %}
 
 ## Другие ссылки 🖇️
 
-{% embed url="https://www.tiktok.com/@miko.monster" %}
+{% embed url="https://www.tiktok.com/@miko-monster" %}
